@@ -1,0 +1,46 @@
+.textbanner div {
+  -webkit-animation-delay: 0.2s;
+          animation-delay: 0.2s;
+}
+
+.uptextarea div {
+  -webkit-animation-delay: 0.7s;
+          animation-delay: 0.7s;
+}
+.uptextarea div:nth-child(2) {
+  -webkit-animation-delay: 0.8s;
+          animation-delay: 0.8s;
+}
+.uptextarea div:nth-child(3) {
+  -webkit-animation-delay: 0.9s;
+          animation-delay: 0.9s;
+}
+.uptextarea div:nth-child(4) {
+  -webkit-animation-delay: 1s;
+          animation-delay: 1s;
+}
+
+.btncustom {
+  -webkit-animation-delay: 1.3s;
+          animation-delay: 1.3s;
+}
+
+.cardOne {
+  -webkit-animation-delay: 1.3s;
+          animation-delay: 1.3s;
+}
+
+.cardOne {
+  -webkit-animation-delay: 1.3s;
+          animation-delay: 1.3s;
+}
+
+.cardTwo {
+  -webkit-animation-delay: 1.5s;
+          animation-delay: 1.5s;
+}
+
+div.camera_commands {
+  display: none;
+  visibility: hidden;
+}/*# sourceMappingURL=customize.css.map */
